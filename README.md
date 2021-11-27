@@ -31,8 +31,7 @@ Most Frequent Exit:
 
 
     Exit number 1- External Interrupt
-
-    Exit number 32 - WRMSR
+    
 
     Exit number 48 - EPT Violation
 	
@@ -41,7 +40,6 @@ Least Frequent Exit :
 
     Exit number 29 - MOV DR
   
-	  Exit number 54 - WBINVD
+  	Exit number 54 - WBINVD
   
-	  Exit number 55 -  XSETBV
 	
